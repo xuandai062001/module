@@ -1,0 +1,20 @@
+<?php  
+
+$textField =  $block->showTextField();
+
+$textarea = $block->showTextArea();
+
+$urlMedia = $block->showUrlMedia();
+
+$image = $block->showImage();
+
+?>
+
+
+
+<img src="<?php echo $urlMedia.'mageplaza/backendimage/'. $image?>" >
+
+<h1><?php echo $textField ?></h1>
+<p><?php echo $textarea ?></p>
+
+

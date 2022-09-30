@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <helloworld>
+            <general>
+                <enable>1</enable>
+                <display_text>Hello World</display_text>
+                <display_textarea>orem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus urna, pretium eu orci et, suscipit varius sapien. Mauris malesuada velit sed felis ornare, a pharetra massa blandit. Quisque varius semper turpis, ac egestas felis rutrum ac. Nullam euismod vulputate lectus, quis fringilla libero eleifend vel. Aliquam egestas eget ante sed mattis. Phasellus ultricies imperdiet massa, ac cursus neque convallis vitae. Sed vestibulum ultricies enim nec egestas. Etiam vel lacinia erat. Nam accumsan lorem ut augue varius efficitur. Donec mollis malesuada nibh ac fermentum. Nullam sit amet ipsum vulputate, mattis enim et, ultricies tellus. Aliquam non eros scelerisque justo egestas imperdiet non et est. Phasellus neque elit, euismod quis malesuada non, molestie accumsan nisl. Vestibulum non augue nisi. Nullam vel nisl feugiat, lobortis nisl non, tincidunt dui. Donec mi tortor, tincidunt at mi vitae, aliquam pharetra tortor.</display_textarea>
+            </general>
+        </helloworld>
+    </default>
+</config>
